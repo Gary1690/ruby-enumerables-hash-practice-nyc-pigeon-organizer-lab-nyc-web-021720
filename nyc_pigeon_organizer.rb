@@ -39,7 +39,3 @@ def find_pigeon_home (name,data)
   home
 end
 
-  {
-    :purple => ["john","maria"],
-    :grey =>["penelope"]
-  }.each{|key,value| puts key.to_s; pp value}
